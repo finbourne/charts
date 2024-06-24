@@ -1,3 +1,5 @@
+![LUSID_by_Finbourne](./resources/Finbourne_Logo_Teal.svg)
+
 # Helm Charts
 
 Use this repository to submit official Charts for Helm. Charts are curated application definitions for Helm. For more information about installing and using Helm, see its
